@@ -14,7 +14,7 @@ We will use the code in below previous videos and string it together here.
 | #     | Step                                                                                                             | Prev Video                                                                      |
 |-------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 1     | CREATE a table in a database on [ElephantSQL](https://www.elephantsql.com/) The image tags will be saved in this table | [Create Database on the cloud using Python](https://youtu.be/xcXN7Vaq2gA)       |
-| 2     | Generate tags for a given image using Imagga Computer Vision API                                                 | [Use computer Vision API to tag images in Python](https://youtu.be/TMFTQzePDvQ) |
+| 2     | Generate tags for a given image using [Imagga Computer Vision API](https://imagga.com/)                                                 | [Use computer Vision API to tag images in Python](https://youtu.be/TMFTQzePDvQ) |
 | 3     | Save the image tags to the database table                                                                        | [Insert data in a cloud database using Python](https://youtu.be/hIZ36ws0XPs)    |
 
 ## Pre-requisites 
