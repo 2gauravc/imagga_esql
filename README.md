@@ -11,13 +11,11 @@ In this video we will do a sequence of steps in Python to save image tags genera
 We will use the code in below previous videos and string it together here. 
 
 
-| #     | Step                                                                                                             |  Video                                                                      |
+| #     | Previous Video                                                                                                             |  Use this To                                                                      |
 |-------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1     | CREATE a table in a database on [ElephantSQL](https://www.elephantsql.com/) The image tags will be saved in this table | [![Create a database on the cloud using Python](images/vd1.png | width=50%)](https://youtu.be/xcXN7Vaq2gA) |
-| 2     | Generate tags for a given image using [Imagga Computer Vision API](https://imagga.com/)                                                 | [![Create a database on the cloud using Python](images/vd2.png){:width=20%}](https://youtu.be/TMFTQzePDvQ) |
-| 3     | Save the image tags to the database table                                                                        | [![Create a database on the cloud using Python](images/vd3.png){:width=20%}](https://youtu.be/hIZ36ws0XPs)    |
-
-<img src="images/vd1.png" width="200" />
+| 1     | [<img src="images/vd1.png" width="200" />](https://youtu.be/xcXN7Vaq2gA) | CREATE a table in a database on [ElephantSQL](https://www.elephantsql.com/) The image tags will be saved in this table |
+| 2     | [<img src="images/vd2.png" width="200" />](https://youtu.be/TMFTQzePDvQ)| Generate tags for a given image using [Imagga Computer Vision API](https://imagga.com/)|
+| 3     | [<img src="images/vd3.png" width="200" />](https://youtu.be/hIZ36ws0XPs)|Save the image tags to the database table|
 
 ## Pre-requisites 
 
