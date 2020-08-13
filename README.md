@@ -13,7 +13,7 @@ We will use the code in below previous videos and string it together here.
 
 | #     | Step                                                                                                             |  Video                                                                      |
 |-------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1     | CREATE a table in a database on [ElephantSQL](https://www.elephantsql.com/) The image tags will be saved in this table | [![Create a database on the cloud using Python](images/vd1.png){:height="50%" width="50%"}](https://youtu.be/xcXN7Vaq2gA) |
+| 1     | CREATE a table in a database on [ElephantSQL](https://www.elephantsql.com/) The image tags will be saved in this table | [![Create a database on the cloud using Python](images/vd1.png | width=50%)](https://youtu.be/xcXN7Vaq2gA) |
 | 2     | Generate tags for a given image using [Imagga Computer Vision API](https://imagga.com/)                                                 | [![Create a database on the cloud using Python](images/vd2.png){:width=20%}](https://youtu.be/TMFTQzePDvQ) |
 | 3     | Save the image tags to the database table                                                                        | [![Create a database on the cloud using Python](images/vd3.png){:width=20%}](https://youtu.be/hIZ36ws0XPs)    |
 
