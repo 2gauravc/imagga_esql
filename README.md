@@ -15,13 +15,13 @@ We will use the code in below previous videos and string it together here.
 
 <div class="row">
   <div class="column">
-    <a href="https://youtu.be/xcXN7Vaq2gA" target="_blank"><img src="images/vd1.png" style="width:100%"></a>
+    <a href="https://youtu.be/xcXN7Vaq2gA" target="_blank"><img src="images/vd1.png" style="width:30%"></a>
   </div>
   <div class="column">
-    <a href="https://youtu.be/TMFTQzePDvQ" target="_blank"><img src="images/vd2.png" style="width:100%"></a>
+    <a href="https://youtu.be/TMFTQzePDvQ" target="_blank"><img src="images/vd2.png" style="width:30%"></a>
   </div>
   <div class="column">
-    <a href="https://youtu.be/hIZ36ws0XPs" target="_blank"><img src="images/vd3.png" style="width:100%"></a>
+    <a href="https://youtu.be/hIZ36ws0XPs" target="_blank"><img src="images/vd3.png" style="width:30%"></a>
   </div>
 </div>
 
