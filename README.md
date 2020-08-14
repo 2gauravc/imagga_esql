@@ -3,7 +3,7 @@ title: "Generate image tags from Imagga and save tags to a database on ElephantS
 author: "Data Smart"
 output:
   html_document:
-    css: "style.css"
+    css: style.css
 ---
 
 
