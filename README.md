@@ -11,11 +11,9 @@ In this video we will do a sequence of steps in Python to save image tags genera
 We will use the code in below previous videos and string it together here. 
 
 
-| #     | Previous Video                                                                                                             |  Use this To                                                                      |
-|-------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1     | [<img src="images/vd1.png" width="200" />](https://youtu.be/xcXN7Vaq2gA) | CREATE a table in a database on [ElephantSQL](https://www.elephantsql.com/) The image tags will be saved in this table |
-| 2     | [<img src="images/vd2.png" width="200" />](https://youtu.be/TMFTQzePDvQ)| Generate tags for a given image using [Imagga Computer Vision API](https://imagga.com/)|
-| 3     | [<img src="images/vd3.png" width="200" />](https://youtu.be/hIZ36ws0XPs)|Save the image tags to the database table|
+<a href="https://youtu.be/xcXN7Vaq2gA" target="_blank"><img src="images/vd1.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="https://youtu.be/TMFTQzePDvQ" target="_blank"><img src="images/vd2.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="https://youtu.be/hIZ36ws0XPs" target="_blank"><img src="images/vd3.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>     
+
+&nbsp;    
 
 ## Pre-requisites 
 
@@ -27,8 +25,8 @@ You need to complete the set-up listed here.
 
 | Tool                 | Set-up Steps                                                                                                                                       |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ElephantSQL          | - Create the config_esql.py file using the config_esql_template.py file This has your credentials to connect to the ElephantSQL cloud database     |
-| Imagga               | - Create the config_imagga.py file using the config_imagga_template.py file This has your credentials to connect to the Imagga Computer Vision API |
+| ElephantSQL          | Create the config_esql.py file using the config_esql_template.py file This has your credentials to connect to the ElephantSQL cloud database     |
+| Imagga               | Create the config_imagga.py file using the config_imagga_template.py file This has your credentials to connect to the Imagga Computer Vision API |
 | Package Installation | Install the Python packages required using the requirements.txt file                                                                               |
 
 To install the Python packages use: 
